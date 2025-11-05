@@ -5,6 +5,7 @@ At the forefront of the enterprise data revolution, my role as a Data and Report
 
 My mission is to drive data precision and reliability through innovative automated reporting. My team and I are committed to crafting a visionary data strategy that ensures companies remain at the cutting edge of data analytics, supported by a robust DataOps framework.
 
+My mission is to drive data precision and reliability through innovative automated reporting. My team and I are committed to crafting a visionary data strategy that ensures companies remain at the cutting edge of data analytics, supported by a robust DataOps framework.
 ## Current Role
 - Title — Company (Dates)
 - Short bullets about responsibilities / impact
